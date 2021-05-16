@@ -4,7 +4,7 @@
 }
 
 .maxWidthWrapper {
-  isolation: isolate;
+  position: relative;
 }
 
 .header {
